@@ -1,0 +1,159 @@
+{
+  "name": "CANALES MUNDIAL 2026",
+  "author": "* ᘜᖇOᑌᑭ ᙭ᑌᑭᗴᖇᒪIՏT © *",
+  "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png",
+  "groups": [
+    {
+      "name": "🕸️ ABRIR CON ACESTREAM",
+      "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png",
+      "stations": [
+        {
+          "Dazn Mundial1 (ACESTREAM 1)",
+          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 1 (ACESTREAM 2)",
+          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 2 (ACESTREAM 3)",
+          "url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 2  (ACESTREAM 4)",
+          "url": "acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 3 (ACESTREAM 5)",
+          "url": "acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 3 (ACESTREAM 6)",
+          "url": "acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 4 (ACESTREAM 7)",
+          "url": "acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 4  (ACESTREAM 8)",
+          "url": "acestream://584e20154750a15d14cb59953bb9cdd923c331bb",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Direct Sport 1080  (ACESTREAM 9)",
+          "url": "acestream://79e6e01eb3db42e3da2428895181c0d32e4abd1f",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Direct Sport 1 1080 (ACESTREAM 10)",
+          "url": "acestream://1b25b195b1b84d4b96830410657718e9e275ad49",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Direct Sport 2 1080 (ACESTREAM 11)",
+          "url": "acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Fox Sport 1080 (ACESTREAM 12)",
+          "url": "acestream://91826b587ffc2a94dcb104928fca7a33ae6b4ce9",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Fox Sport 4K (ACESTREAM 13)",
+          "url": "acestream://d389b0c2474bb1ab827413d87823451ee4c07b0a",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "MUNDIALCANAL 5 MX 1080  (ACESTREAM 14)",
+          "url": "acestream://2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        }
+      ]
+    },
+    {
+      "name": "🕸️ ABRIR CON ACESERVE",
+      "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png",
+      "stations": [
+        {
+          "Dazn Mundial 1 (ACESERVE 1)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 1 (ACESERVE 2)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 2 (ACESERVE 3)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 2 (ACESERVE 4)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 3 (ACESERVE 5)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 3 (ACESERVE 6)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 4 (ACESERVE 7)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Dazn Mundial 4 (ACESERVE 8)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Direct Sport 1080 (ACESERVE 9)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Direct Sport 1 1080 (ACESERVE 10)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Direct Sport 2 1080 (ACESERVE 11)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=0d780c1fb5fdf2121d9544f1a6892cb1053dd061",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Fox Sport 1080 (ACESERVE 12)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=91826b587ffc2a94dcb104928fca7a33ae6b4ce9",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "Fox Sport 4K (ACESERVE 13)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=d389b0c2474bb1ab827413d87823451ee4c07b0a",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        },
+        {
+          "MUNDIALCANAL 5 MX 1080 (ACESERVE 14)",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9",
+          "image": "https://i.postimg.cc/rsL6LtN6/logo6-18-135732.png"
+        }
+      ]
+    }
+  ]
+}
